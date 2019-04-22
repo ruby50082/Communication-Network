@@ -10,3 +10,6 @@ Implement the generation and detection of BPSK.
   (6) Calculate the BER.
   (7) Redo the same experiments with 0 dB ≤ E~b~ ≤ 10 dB
   (8) Draw and compare the BER with the theoretical values.
+
+## Language
+Matlan
