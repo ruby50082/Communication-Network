@@ -12,4 +12,4 @@ Implement the generation and detection of BPSK.
   (8) Draw and compare the BER with the theoretical values.
 
 ## Language
-Matlan
+Matlab
